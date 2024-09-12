@@ -21,4 +21,4 @@ This repo contains a research study that utilizes different time series models t
 
 * **Tesla.csv:** CSV file containing Tesla stock data.
 * **Tesla_Stock_Prediction.ipynb:** Jupyter Notebook containing all the code and analysis.
-* **[Other Files]** 
+
